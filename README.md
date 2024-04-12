@@ -1,6 +1,8 @@
 # Odin Recipes
 
-A small project to practice HTML to form a mini cookbook. Demonstrates basic understanding of HTML, including:
+A small project to practice HTML to form a mini cookbook. 
+
+Demonstrates basic understanding of HTML, including:
 <ul>
     <li>Setting up an HTML boilerplate</li>
     <li>Handling links, images, and text</li>
